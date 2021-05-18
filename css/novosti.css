@@ -1,0 +1,65 @@
+  	*{
+    		box-sizing: border-box;
+    	}
+    	.navbar{
+	       padding: 0;
+      }
+	.navbar-brand{
+	font-size: 25px;
+	display: flex;
+	color: #000000;
+	}
+	.navbar-brand img{
+		width: 30%;
+		margin-left: 40px;
+	}
+	.navbar ul a{
+		color: #000000;
+	}
+	#active span{
+	border: 2px solid red;
+	position: absolute;
+	width: 80px;
+	margin-top:20px;
+	
+   }
+   #text-one{
+	font-size: 30px;
+	padding-left: 45px;
+	color: #000000;
+	}
+	#text-two{
+		width: 170px;
+	  font-family: Gilroy;
+	  font-size: 20px;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.16;
+	  letter-spacing: normal;
+	  text-align: left;
+	  color: #000000;
+	  margin-left:50px;
+	}
+	.card img{
+		width:200px; 
+	}
+	}
+
+   section{
+   			margin-top:215px;
+   }
+   .container-fluid{
+   	margin-top: 100px;
+   }
+   footer{
+   	margin-top:40px;
+   }
+   #spamm{
+  border: 2px solid red;
+  position: absolute;
+  width: 80px;
+   }
+   .card{
+   	  box-shadow: 0 9px 46px 0 rgba(0, 0, 0, 0.18);
+   	  margin: 3px;
+   }

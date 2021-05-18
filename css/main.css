@@ -1,0 +1,66 @@
+.navbar{
+	padding: 0;
+}
+.navbar-brand{
+font-size: 25px;
+display: flex;
+color: #000000;
+}
+.navbar-brand img{
+	width: 30%;
+	margin-left: 40px;
+}
+.navbar ul a{
+	color: #000000;
+}
+#text-one{
+	font-size: 30px;
+    padding-top: 200px;
+	padding-left: 45px;
+	color: #000000;
+}
+#text-two{
+  font-family: Gilroy;
+  font-size: 30px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.16;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+.ellepse-1{
+	border: 1px solid white;
+	width: 10px;
+	height: 10px;
+	border-radius: 14px;
+	background-color:#ffffff;
+	margin-left:40px;
+}
+.ellepse-2{
+	opacity: 0.3;
+	border: 1px solid white;
+	width: 10px;
+	height: 10px;
+	border-radius: 14px;
+	background-color:#ffffff;
+	margin-left:40px;
+	margin-top: 20px;
+}
+.ellepse-3{
+	opacity: 0.3;
+	border: 1px solid white;
+	width: 10px;
+	height: 10px;
+	border-radius: 14px;
+	background-color:#ffffff;
+	margin-left:40px;
+	margin-top: 20px;
+}
+#active span{
+	border: 2px solid red;
+	position: absolute;
+	width: 80px;
+	margin-top:10px;
+	
+}
